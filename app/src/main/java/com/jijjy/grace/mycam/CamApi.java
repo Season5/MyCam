@@ -9,11 +9,17 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.firebase.client.Firebase;
+
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
 public class CamApi extends AppCompatActivity implements SurfaceHolder.Callback {
+
+    private static final String FIREBASE_URL = "https://mycamera.firebaseio.com/";
+
+    private Firebase firebaseRef;
 
     //Declare camera and Surface
     Camera camera;
@@ -53,8 +59,10 @@ public class CamApi extends AppCompatActivity implements SurfaceHolder.Callback 
             public void onPictureTaken(byte[] data, Camera camera) {
                 FileOutputStream outputStream = null;
                 try {
-                    outputStream = new FileOutputStream(String.format("/sdcard/%d.jpg", System.currentTimeMillis()));
+                    outputStream = new FileOutputStream(String.format("FIREBASE_URL", System.currentTimeMillis()));
+//                    /sdcard/%d.jpg
 
+                    firebaseRef.push().setValue(outputStream);
                     outputStream.write(data);
                     outputStream.close();
                 }
