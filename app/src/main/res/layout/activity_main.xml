@@ -17,6 +17,10 @@
         <!--android:layout_centerHorizontal="true"-->
         <!--android:layout_above="@+id/button" />-->
 
+    <ImageView
+        android:id="@+id/pic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
