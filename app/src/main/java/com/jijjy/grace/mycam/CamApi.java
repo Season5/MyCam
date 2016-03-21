@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.View;
+import android.widget.Button;
 import android.widget.Toast;
 
 import java.io.FileNotFoundException;
@@ -18,6 +19,7 @@ public class CamApi extends AppCompatActivity implements SurfaceHolder.Callback 
     Camera camera;
     SurfaceView surfaceView;
     SurfaceHolder surfaceHolder;
+    Button tkpic;
 
     Camera.PictureCallback rawCallback;
     Camera.ShutterCallback shutterCallback;
@@ -27,6 +29,18 @@ public class CamApi extends AppCompatActivity implements SurfaceHolder.Callback 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cam_api);
+
+        tkpic = (Button)findViewById(R.id.tkpic);
+        tkpic.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                try {
+                    captureImage(surfaceView);
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
 
         surfaceView = (SurfaceView) findViewById(R.id.surfaceView);
         surfaceHolder = surfaceView.getHolder();
@@ -54,6 +68,7 @@ public class CamApi extends AppCompatActivity implements SurfaceHolder.Callback 
 
             }
         };
+
     }
     public void captureImage(View v)throws IOException {
         camera.takePicture(null, null, jpegCallback);
@@ -95,9 +110,12 @@ public class CamApi extends AppCompatActivity implements SurfaceHolder.Callback 
             return;
         }
         Camera.Parameters param;
-        param = camera.getParameters();
+        if(camera!=null) {
+            param = camera.getParameters();
+
         param.setPreviewSize(352, 288);
         camera.setParameters(param);
+        }
 
         try{
             camera.setPreviewDisplay(surfaceHolder);
