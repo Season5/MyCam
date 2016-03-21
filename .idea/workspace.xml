@@ -40,19 +40,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31bd1532-607a-4035-8a3c-08de09880b66" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Bizner" afterPath="$PROJECT_DIR$/../Bizner" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BucketList" afterPath="$PROJECT_DIR$/../BucketList" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InStyleApp" afterPath="$PROJECT_DIR$/../InStyleApp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../InStyle" afterPath="$PROJECT_DIR$/../InStyle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Kari" afterPath="$PROJECT_DIR$/../Kari" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyApp2" afterPath="$PROJECT_DIR$/../MyApp2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ReadersOnly" afterPath="$PROJECT_DIR$/../ReadersOnly" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RebelAlpha" afterPath="$PROJECT_DIR$/../RebelAlpha" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Rebel" afterPath="$PROJECT_DIR$/../Rebel" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Rendam" afterPath="$PROJECT_DIR$/../Rendam" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SlideTest" afterPath="$PROJECT_DIR$/../SlideTest" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ZeCartoon" afterPath="$PROJECT_DIR$/../ZeCartoon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../materialTab" afterPath="$PROJECT_DIR$/../materialTab" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/design_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/design_23_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
     <ignored path="MyCam.iws" />
@@ -70,6 +66,9 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -77,8 +76,11 @@
       </state>
     </system>
   </component>
+<<<<<<< HEAD
+=======
 =======
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
   <component name="FavoritesManager">
     <favorites_list name="MyCam" />
   </component>
@@ -118,20 +120,25 @@
       </file>
       <file leaf-file-name="activity_app_.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_app_.xml">
-          <provider editor-type-id="text-editor">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-              <folding>
-                <element signature="e#319#349#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
+<<<<<<< HEAD
+          <provider editor-type-id="android-designer">
+=======
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
           <provider selected="true" editor-type-id="android-designer">
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
             <state />
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="App_Activity.java" pinned="false" current-in-tab="false">
+=======
 <<<<<<< HEAD
       <file leaf-file-name="CamApi.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/CamApi.java">
@@ -145,10 +152,14 @@
                 <element signature="e#2458#2459#0" expanded="true" />
 =======
       <file leaf-file-name="App_Activity.java" pinned="false" current-in-tab="true">
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/App_Activity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.6497462">
+            <state vertical-scroll-proportion="0.0">
               <caret line="76" column="68" selection-start-line="76" selection-start-column="68" selection-end-line="76" selection-end-column="68" />
+<<<<<<< HEAD
+              <folding />
+=======
               <folding>
                 <element signature="e#1799#1800#0" expanded="true" />
                 <element signature="e#1837#1838#0" expanded="true" />
@@ -160,6 +171,7 @@
                 <element signature="e#2365#2366#0" expanded="true" />
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
               </folding>
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
             </state>
           </provider>
         </entry>
@@ -174,10 +186,14 @@
                 <element signature="e#539#557#0" expanded="true" />
 =======
               <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+<<<<<<< HEAD
+              <folding />
+=======
               <folding>
                 <element signature="e#263#281#0" expanded="true" />
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
               </folding>
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
             </state>
           </provider>
         </entry>
@@ -193,13 +209,13 @@
 =======
       <file leaf-file-name="activity_splash.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
-          <provider editor-type-id="text-editor">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
               <folding />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="android-designer">
+          <provider editor-type-id="android-designer">
             <state />
           </provider>
         </entry>
@@ -209,11 +225,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+<<<<<<< HEAD
+              <folding />
+=======
               <folding>
                 <element signature="e#485#660#0" expanded="true" />
                 <element signature="e#659#660#0" expanded="true" />
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
               </folding>
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
             </state>
           </provider>
         </entry>
@@ -241,10 +261,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8085502">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6451613">
+            <state vertical-scroll-proportion="0.0">
               <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
               <folding />
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
@@ -269,8 +299,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+=======
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -1509,10 +1543,14 @@
     <option name="modificationStamps">
       <map>
 <<<<<<< HEAD
+        <entry key="$PROJECT_DIR$" value="4375656943864" />
+=======
+<<<<<<< HEAD
         <entry key="$PROJECT_DIR$/../Cohort5_news" value="5833184437900" />
         <entry key="$PROJECT_DIR$" value="4375623002471" />
 =======
         <entry key="$PROJECT_DIR$" value="4375623834972" />
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
         <entry key="$PROJECT_DIR$/../SlideTest" value="4372438232804" />
         <entry key="$PROJECT_DIR$/../ZeCartoon" value="5830765655884" />
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
@@ -2029,6 +2067,11 @@
   </component>
   <component name="ProjectFrameBounds">
 <<<<<<< HEAD
+    <option name="y" value="52" />
+    <option name="width" value="683" />
+    <option name="height" value="716" />
+=======
+<<<<<<< HEAD
     <option name="x" value="683" />
     <option name="y" value="52" />
     <option name="width" value="683" />
@@ -2038,6 +2081,7 @@
     <option name="width" value="1366" />
     <option name="height" value="772" />
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -2067,6 +2111,9 @@
     </navigator>
     <panes>
 <<<<<<< HEAD
+      <pane id="PackagesPane" />
+=======
+<<<<<<< HEAD
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
@@ -2076,6 +2123,7 @@
       <pane id="PackagesPane" />
       <pane id="Scratches" />
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2083,6 +2131,14 @@
               <option name="myItemId" value="MyCam" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+=======
 <<<<<<< HEAD
           </PATH>
           <PATH>
@@ -2199,6 +2255,7 @@
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.SHOW" value="false" />
 =======
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2481,11 +2538,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="52" width="683" height="716" extended-state="4" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -2495,26 +2551,30 @@
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.51805335" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+=======
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2536,17 +2596,24 @@
   </component>
   <component name="editorHistoryManager">
 <<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/MainActivity.java">
+=======
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.gitignore">
 =======
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/First_fragment.java">
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/SampleSlide.java">
+=======
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -2559,17 +2626,121 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
 =======
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_first_fragment.xml">
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_app_.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/App_Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/Splash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_first_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/First_fragment.java">
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/Third_fragment.java">
+>>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_first_fragment.xml">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.16129">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="e#1292#1311#0" expanded="true" />
+          </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_third_fragment.xml">
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+>>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
         </state>
       </provider>
       <provider editor-type-id="android-designer">
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_second_fragment.xml">
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/Second_fragment.java">
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2581,7 +2752,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/Third_fragment.java">
->>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2589,21 +2759,20 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.16129">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding>
-            <element signature="e#1292#1311#0" expanded="true" />
-          </folding>
-=======
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_third_fragment.xml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -2611,38 +2780,8 @@
       </provider>
     </entry>
 <<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
-=======
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/Second_fragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/SampleSlide.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
->>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+=======
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -2652,9 +2791,10 @@
             <element signature="e#539#557#0" expanded="true" />
 =======
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/MainActivity.java">
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2663,10 +2803,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+<<<<<<< HEAD
+          <folding />
+=======
           <folding>
             <element signature="e#263#281#0" expanded="true" />
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
           </folding>
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
         </state>
       </provider>
     </entry>
@@ -2675,9 +2819,11 @@
       <provider editor-type-id="text-editor">
 =======
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_app_.xml">
-      <provider editor-type-id="text-editor">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+<<<<<<< HEAD
+=======
           <folding>
             <element signature="e#319#349#0" expanded="true" />
           </folding>
@@ -2692,6 +2838,7 @@
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
           <folding />
         </state>
       </provider>
@@ -2703,7 +2850,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6451613">
+        <state vertical-scroll-proportion="0.0">
           <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
           <folding />
         </state>
@@ -2713,14 +2860,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
-      <provider editor-type-id="text-editor">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
           <folding />
         </state>
       </provider>
+<<<<<<< HEAD
+      <provider editor-type-id="android-designer">
+=======
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
       <provider selected="true" editor-type-id="android-designer">
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
         <state />
       </provider>
     </entry>
@@ -2739,18 +2890,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#485#660#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/App_Activity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6497462">
+        <state vertical-scroll-proportion="0.0">
           <caret line="76" column="68" selection-start-line="76" selection-start-column="68" selection-end-line="76" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jijjy/grace/mycam/SampleSlide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding>
+<<<<<<< HEAD
+            <element signature="imports" expanded="true" />
+=======
             <element signature="e#1799#1800#0" expanded="true" />
             <element signature="e#1837#1838#0" expanded="true" />
             <element signature="e#1904#1905#0" expanded="true" />
@@ -2760,7 +2927,27 @@
             <element signature="e#2302#2303#0" expanded="true" />
             <element signature="e#2365#2366#0" expanded="true" />
 >>>>>>> 7b687d022603370b64ed0ee2c33c5c99b6650ef0
+>>>>>>> 064c348825fefc2bf660ed1e5fae47a14da23b83
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_first_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8085502">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
