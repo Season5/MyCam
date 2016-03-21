@@ -3,23 +3,22 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.jijjy.grace.mycam.Second_fragment"
-    android:background="#ddb5de">
+    android:background="#dbb4dc">
 
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/imageView3"
-        android:src="@drawable/logo"
+        android:src="@drawable/coool"
         android:layout_above="@+id/textView2"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Take hd pictures and get the best quality here"
+        android:text="Take HD pictures and get the best quality here"
         android:id="@+id/textView2"
         android:textSize="35dp"
         android:padding="12dp"

@@ -1,5 +1,6 @@
 package com.jijjy.grace.mycam;
 
+import android.content.Context;
 import android.hardware.Camera;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -36,6 +37,7 @@ public class CamApi extends AppCompatActivity implements SurfaceHolder.Callback 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cam_api);
 
+        //set button and onclicklistener
         tkpic = (Button)findViewById(R.id.tkpic);
         tkpic.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -48,6 +50,7 @@ public class CamApi extends AppCompatActivity implements SurfaceHolder.Callback 
             }
         });
 
+//        declare surfaceview
         surfaceView = (SurfaceView) findViewById(R.id.surfaceView);
         surfaceHolder = surfaceView.getHolder();
 
@@ -59,8 +62,12 @@ public class CamApi extends AppCompatActivity implements SurfaceHolder.Callback 
             public void onPictureTaken(byte[] data, Camera camera) {
                 FileOutputStream outputStream = null;
                 try {
+<<<<<<< HEAD
+                    outputStream = openFileOutput(String.format("/sdcard/%d.jpg", System.currentTimeMillis()), Context.MODE_ENABLE_WRITE_AHEAD_LOGGING);
+=======
                     outputStream = new FileOutputStream(String.format("FIREBASE_URL", System.currentTimeMillis()));
 //                    /sdcard/%d.jpg
+>>>>>>> master
 
                     firebaseRef.push().setValue(outputStream);
                     outputStream.write(data);

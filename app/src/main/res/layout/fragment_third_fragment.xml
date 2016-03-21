@@ -10,11 +10,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/imageView4"
-        android:src="@drawable/reel"
-        android:layout_marginBottom="299dp"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:src="@drawable/logo"
+        android:layout_above="@+id/textView3"
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -22,7 +20,7 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Quick processor and advanced image options"
         android:id="@+id/textView3"
-        android:layout_marginBottom="94dp"
+        android:layout_marginBottom="45dp"
         android:padding="12dp"
         android:textSize="35dp"
         android:textAlignment="center"
