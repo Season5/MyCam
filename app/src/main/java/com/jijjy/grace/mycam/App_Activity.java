@@ -25,14 +25,17 @@ public class App_Activity extends AppCompatActivity {
 
         toolbar = (android.support.v7.widget.Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+        if(getSupportActionBar() !=null) {
+            getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        }
         viewPager = (ViewPager) findViewById(R.id.viewpager);
-        setupViewPager(viewPager);
-
+        if(viewPager!=null) {
+            setupViewPager(viewPager);
+        }
         tabLayout = (TabLayout) findViewById(R.id.tabs);
-        tabLayout.setupWithViewPager(viewPager);
+        if(tabLayout!=null) {
+            tabLayout.setupWithViewPager(viewPager);
+        }
     }
 
     private void setupViewPager(ViewPager viewPager) {
