@@ -62,12 +62,9 @@ public class CamApi extends AppCompatActivity implements SurfaceHolder.Callback 
             public void onPictureTaken(byte[] data, Camera camera) {
                 FileOutputStream outputStream = null;
                 try {
-<<<<<<< HEAD
-                    outputStream = openFileOutput(String.format("/sdcard/%d.jpg", System.currentTimeMillis()), Context.MODE_ENABLE_WRITE_AHEAD_LOGGING);
-=======
+//                    outputStream = openFileOutput(String.format("/sdcard/%d.jpg", System.currentTimeMillis()), Context.MODE_ENABLE_WRITE_AHEAD_LOGGING);
                     outputStream = new FileOutputStream(String.format("FIREBASE_URL", System.currentTimeMillis()));
 //                    /sdcard/%d.jpg
->>>>>>> master
 
                     firebaseRef.push().setValue(outputStream);
                     outputStream.write(data);

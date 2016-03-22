@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jaykayitare/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_f10015ea5872522d2f08ec550e1d31ba714cebfe.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_bca5e35fe9ab784abb782ec6ccfba84206403d49.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_6628697a02fe36b1ec886f6a9745158ed37d59c2.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_381ebe3f7adaaaf2dd77863a4ff30ee7c81b2e5e.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_12cb2069155bbc61fc5228a1e1f660bb83ba0bfd.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6226784544a521018b23203d335f89f268314645">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/com.github.paolorotolo-appintro-3.4.0_78cc808a021ea4bdd96821d7564572dc04ab2c01.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_7b2eb95e49f08d24d0d534bc4ba16febe1149dc9.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5f34a8aeb0eaaa2d69752d56102a8c808117058e">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-0.3.1_31319a2f65a990e21df7b31e8c21913ad97f1a5a.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_6fe8dee7f0a173a654f726f9d7470f9f3984649e.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_a95fcbf02a0eed45ea36369c425d4a27725a74b6.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_be5fc82c7d382743e269f0a9c1d9a63657edb155.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.3.1_0549949d10118ccb32ef43344533a6fe8367ab92.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_98e0a8ae488f3bd6a029d4d5c9a7edffb04966c2.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_3bdeda421a2cbfb1793f984385a6a98a07934493.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/tubesock-0.0.11_1f162d09e0dd19dbccdb8d50beb6628eb978dbb9.jar" />
+    </item>
+    <item
+        jar="/home/jaykayitare/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="/home/jaykayitare/AndroidStudioProjects/MyCam/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.3.1_fc45f2bee69ff3694cb2ed508d946de1811a4592.jar" />
+    </item>
+
+</items>
